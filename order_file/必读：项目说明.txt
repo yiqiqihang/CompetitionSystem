@@ -1,0 +1,20 @@
+后端源码文件夹：[jingsai]
+前端源码压缩包：[front-end.zip]
+
+数据库(MySQL)的连接代码在：jingsai\src\main\resources\application.yml
+
+前端启动命令：npm run serve
+
+学生
+159951159	123456                       学生1
+
+教师
+445393889	123456                       教师1
+
+学院管理员
+1212714291	123456                       学院管理员
+
+校级管理员
+admin                       123456                       校级管理员
+
+
